@@ -1,0 +1,6 @@
+{
+  "name": "내집다오 (MyZipDao) PC",
+  "description": "국내 최초 임대주택 전문 플랫폼 '내집다오'의 PC 버전 서비스입니다. 청약 진단, 신규 공고 확인 및 경쟁률 분석을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
